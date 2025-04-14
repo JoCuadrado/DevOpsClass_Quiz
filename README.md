@@ -41,4 +41,4 @@ Les tests essentiels pour assurer la qualité et la stabilité d’une applicati
 
 ## Schéma de l’architecture de l’application
 
-![Schéma de l’architecture de l’application](./schama.png)
+![Schéma de l’architecture de l’application](./schema.png)
